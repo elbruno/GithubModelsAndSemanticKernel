@@ -55,6 +55,7 @@ If you want to learn more about how to use this repo, check the following videos
 ## References
 
 - [GitHub Models](https://github.com/marketplace/models)
+- [GitHub Models - Rate Limits](https://docs.github.com/en/github-models/prototyping-with-ai-models#rate-limits)
 - [Semantic Kernel main repository](https://github.com/microsoft/semantic-kernel)
 - [Phi-3 Cookbook](https://aka.ms/Phi-3CookBook)
 
