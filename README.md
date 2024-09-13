@@ -19,15 +19,16 @@ dotnet user-secrets set "GH_PAT" "< PAT >"
 ```
 
 1. Select a model from the [GitHub Model Marketplace](https://github.com/marketplace/models). For the current demo, we will use [Phi-3.5-mini instruct (128k)](https://github.com/marketplace/models/azureml/Phi-3-5-mini-instruct)
- 
+
 1. Edit the file [program.cs](). 
 
-Complete the following information:
-- ModelId 
-- Uri Endpoint 
+    Complete the following information:
 
-Your code should look like this:
-![sample code](./imgs/05CreateCodeSpace.png)
+    - ModelId
+    - Uri Endpoint
+
+    Your code should look like this:
+    ![sample code](./imgs/10SampleCode.png)
 
 4. In the terminal, run the project with the command:
 
@@ -36,7 +37,7 @@ Your code should look like this:
     ```
 
 The app should run a chat using the selected mode in the terminal.
-![run ollama and ask for a joke](./imgs/10ollamarunphi.gif)
+![sample running project](./imgs/15Samplerun.png)
 
 ## Video Tutorials
 
@@ -44,7 +45,7 @@ If you want to learn more about how to use this repo, check the following videos
 
 ### GitHub Models and Semantic Kernel
 
-[![GitHub Models and Semantic Kernel](./imgs/SK%20and%20GH%20Models.png)](https://youtu.be/zFnju6Sm08U)
+[![GitHub Models and Semantic Kernel](./imgs/SK%20and%20GH%20Models.png)](https://youtu.be/tVgQChnPqc0)
 
 ## References
 
